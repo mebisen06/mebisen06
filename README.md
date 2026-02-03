@@ -78,3 +78,4 @@ A modern mapping solution built for the MITS student body.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=2" />
 </p>
+ 
