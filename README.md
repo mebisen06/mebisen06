@@ -10,7 +10,7 @@ Passionate about backend development, AI-powered systems, and scalable software.
 Interested in software engineering, problem solving, and building practical technology solutions.
 
 [![View Projects](https://img.shields.io/badge/VIEW_PROJECTS_→-f0c81e?style=for-the-badge&logoColor=000000)](#system_projects)
-[![Resume](https://img.shields.io/badge/DOWNLOAD_RESUME-000000?style=for-the-badge&logoColor=f0c81e)](#)
+[![Resume]([https://img.shields.io/badge/DOWNLOAD_RESUME-000000?style=for-the-badge&logoColor=f0c81e](https://drive.google.com/file/d/1XL5ZcsKpqg-5MkIOZHLBdeyudigr3j7Z/view?usp=sharing))](#)
 
 </div>
 
@@ -84,7 +84,6 @@ A community platform for college students to discuss coursework, share announcem
 A hackathon-winning AI-powered health chatbot providing preliminary health guidance and disease-related information through a conversational interface.
 `HTML` `JAVASCRIPT` `AI LOGIC`
 
-> 🔧 **Currently building:** a full-stack CTF competition platform (HackTheBox-style) — React + Node/Express + PostgreSQL, Dockerized per-user isolation, real-time leaderboards via Socket.io.
 
 <br/>
 
