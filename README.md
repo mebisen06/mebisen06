@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]
+![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)
 <div align="center">
 
 [![Status](https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-f0c81e?style=flat-square&labelColor=000000)](#)
